@@ -1,5 +1,5 @@
 package com.Xanite.overlay
-    #rpscx-ui Just borrow ❤️
+
 import android.graphics.PointF
 import android.os.Build
 import android.os.Bundle
