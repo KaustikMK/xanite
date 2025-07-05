@@ -1,5 +1,5 @@
 package com.Xanite.overlay
-    #rpscx-ui Just borrow 
+
 import android.content.res.Resources
 import android.graphics.Bitmap
 import android.graphics.Canvas
